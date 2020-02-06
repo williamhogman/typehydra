@@ -1,0 +1,1 @@
+{"version":3,"file":"AuthenticationSession.d.ts","sourceRoot":"","sources":["../../../src/types/AuthenticationSession.ts"],"names":[],"mappings":"AAAA;;GAEG;AACH,MAAM,CAAC,OAAO,WAAW,qBAAqB;IAC5C;;OAEG;IACH,eAAe,CAAC,EAAE,IAAI,CAAC;IAEvB;;OAEG;IACH,EAAE,CAAC,EAAE,MAAM,CAAC;IAEZ;;OAEG;IACH,OAAO,CAAC,EAAE,MAAM,CAAC;CAClB"}

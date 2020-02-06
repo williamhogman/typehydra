@@ -1,0 +1,1 @@
+{"version":3,"file":"GenericError.d.ts","sourceRoot":"","sources":["../../../src/types/GenericError.ts"],"names":[],"mappings":"AAAA;;;GAGG;AACH,MAAM,CAAC,OAAO,WAAW,YAAY;IACnC;;OAEG;IACH,KAAK,EAAE,MAAM,CAAC;IAEd;;OAEG;IACH,UAAU,CAAC,EAAE,MAAM,CAAC;IAEpB;;;OAGG;IACH,WAAW,CAAC,EAAE,MAAM,CAAC;IAErB;;OAEG;IACH,UAAU,CAAC,EAAE,MAAM,CAAC;CACrB"}
